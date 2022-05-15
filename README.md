@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a Reddit like webapp
+- 🔭 I’m currently working on [Goatpad](https://github.com/ssmodish/goatpad) a Reddit like webapp
 - 🌱 I’m currently learning TypeScript
 - 🤔 I’m looking for help with getting my first developer job!
 
