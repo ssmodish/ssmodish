@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Goatpad](https://github.com/ssmodish/goatpad) a Reddit like webapp
 - 🌱 I’m currently learning TypeScript
-- 🤔 I’m looking for help with getting my first developer job!
+- 😄 I’m looking for my first developer job!
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stevesmodish) 
